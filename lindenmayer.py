@@ -1,4 +1,5 @@
 """Lindenmayer. Creates fractals from L-Systems.
+Copyright (C) 2015  Jan-Christoph Klie. GPL v3.
 
 Usage:
   lindenmayer.py [--out=<filename>] [--format=(svg|png)] (koch|levic|dragon) <iterations>

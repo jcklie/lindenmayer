@@ -26,6 +26,11 @@ Usage
 Installation
 =============
 
+This software needs ``Python``, ``cairosvg``, ``docopt``, and ``svgwrite`` to run. The easiest way is 
+to install it with ``pip``, the Python package manager. When ``pip`` is installed, just download the dependencies with ::
+
+	pip install -r REQUIREMENTS.txt
+
 =============
 Examples
 =============
